@@ -93,7 +93,7 @@ fido.methods
 #=> [:psych_to_yaml, :to_yaml, :to_yaml_properties, :local_methods, :try, :nil?,
 # :===, :=~, :!~, :eql?, :hash, :<=>, :class, :singleton_class, :clone, :dup,
 # :itself, :taint, :tainted?, :untaint, :untrust, :untrusted?, :trust, :freeze,
-# :frozen?, :to_s, :inspect, :methods, :singleton_methods, :protected_methods,
+# :frozen?, :to_s, :inspect, :methods, :singleton_methods, f:protected_methods,
 # :private_methods, :public_methods, :instance_variables,
 # :instance_variable_get, :instance_variable_set, :instance_variable_defined?,
 # :remove_instance_variable, :instance_of?, :kind_of?, :is_a?, :tap, :send,
